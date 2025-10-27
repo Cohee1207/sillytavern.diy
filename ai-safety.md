@@ -39,7 +39,7 @@ If you wouldn't tell a stranger about your health problems, finances, or hobbies
 
 For ERP users (you know who you are; the providers you use know, too), no, nobody is reading about your fetishes. A machine is processing them (that's what an LLM does), but unless you're doing something that repeatedly triggers ethical violation warnings (because false-positives happen), you're just one of millions of people doing the same thing. You might still get marketed to based on them, though; whether that's a positive to you or not is a personal thing.
 
-## AI addiction is real
+## The One Piece is real
 
 LLMs have their roots as entertaining curiosities and the companies producing them have a wealth of research into human psychology to understand what does and does not drive engagement. Because engagement means revenue and corporations like money, they have an incentive to tune them to be as compelling as possible, encoruging a constant "just one more" effect.
 
